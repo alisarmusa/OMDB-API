@@ -1,7 +1,10 @@
 # OMDB-API
 # JAVA-REST-ASSURED-TESTING
 
-# Important Note (Enable Lombok on Intellij Idea)
+# Important Note 
+
+(Enable Lombok on Intellij Idea)
+
 Preferences (Ctrl + Alt + S)
 
 Build, Execution, Deployment
@@ -11,6 +14,8 @@ Compiler
 Annotation Processors
 
 Enable annotation processing
+
+Apply & OK
 
 
 # Requirements
