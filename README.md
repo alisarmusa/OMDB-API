@@ -3,7 +3,7 @@
 
 # Important Note 
 
-(Enable Lombok on Intellij Idea)
+# Enable Lombok on Intellij Idea :
 
 Preferences (Ctrl + Alt + S)
 
