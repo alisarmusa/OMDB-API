@@ -3,10 +3,15 @@
 
 # Important Note (Enable Lombok on Intellij Idea)
 Preferences (Ctrl + Alt + S)
+
 Build, Execution, Deployment
+
 Compiler
+
 Annotation Processors
+
 Enable annotation processing
+
 
 # Requirements
 Java
