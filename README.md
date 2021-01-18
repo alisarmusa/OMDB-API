@@ -29,7 +29,7 @@ Run Movies.java
 Bash Script : mvn clean test -Durl="http://www.omdbapi.com/" -DapiKey="a50f0de6" -DsearchWord="Harry Potter" -DmovieTitle="Harry Potter and the Sorcerer's Stone"
 
 ![Screenshot1](Screenshots/Screenshot%20from%202021-01-18%2011-57-49.png)
-![Screenshot2](Screenshots/Screenshot%20from%202021-01-18%2011-57-49.png)
+![Screenshot2](Screenshots/Screenshot%20from%202021-01-18%2011-58-01.png)
 ![Screenshot3](Screenshots/Screenshot%20from%202021-01-18%2011-57-49.png)
 ![Screenshot4](Screenshots/Screenshot%20from%202021-01-18%2011-57-49.png)
 
